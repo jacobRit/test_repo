@@ -1,0 +1,3 @@
+# Subfolder B
+
+* Another example of a subfolder ... 
